@@ -34,3 +34,12 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# idea
+.idea
+
+# build
+build/
+
+# dist
+dist/
